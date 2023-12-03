@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94226035-4615-4f18-ae7e-4c656ef64ac7" name="Changes" comment="Added files">
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maruza.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slaydlar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,6 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/User/Desktop/bahodirPhd/frontend",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,21 +58,29 @@
       <recent name="C:\Users\User\Desktop\bahodirPhd\frontend\assets" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="asss.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/frontend/asss.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.contact.html">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/frontend/about.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/frontend/index2.html" useBuiltInWebServerPort="true">
+    <configuration name="contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/frontend/contact.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/frontend/index.html" useBuiltInWebServerPort="true">
+    <configuration name="maruza.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/frontend/maruza.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="slaydlar.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/frontend/slaydlar.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="video.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/frontend/video.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.asss.html" />
-        <item itemvalue="JavaScript Debug.index2.html" />
+        <item itemvalue="JavaScript Debug.contact.html" />
+        <item itemvalue="JavaScript Debug.slaydlar.html" />
+        <item itemvalue="JavaScript Debug.maruza.html" />
+        <item itemvalue="JavaScript Debug.about.html" />
+        <item itemvalue="JavaScript Debug.video.html" />
       </list>
     </recent_temporary>
   </component>
@@ -79,6 +96,9 @@
       <workItem from="1701003100877" duration="1641000" />
       <workItem from="1701156372124" duration="1051000" />
       <workItem from="1701281136120" duration="7371000" />
+      <workItem from="1701316037281" duration="3755000" />
+      <workItem from="1701332607052" duration="886000" />
+      <workItem from="1701340045844" duration="4368000" />
     </task>
     <task id="LOCAL-00001" summary="Added files">
       <created>1701289892969</created>
